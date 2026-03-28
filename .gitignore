@@ -1,0 +1,42 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Build
+build/
+classes/
+target/
+dist/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Maven
+*.jar
+*.war
+*.ear
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+logs/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# WebContent compiled classes
+WebContent/WEB-INF/classes/
+WebContent/WEB-INF/lib/*.jar
